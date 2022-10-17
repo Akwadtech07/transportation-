@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.exe
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.deps.json
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.dll
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\ref\transportation.dll
+C:\Users\USER\OneDrive\Desktop\transportation\bin\Debug\net5.0\transportation.pdb
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.dll
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\ref\transportation.dll
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.pdb
+C:\Users\USER\OneDrive\Desktop\transportation\obj\Debug\net5.0\transportation.genruntimeconfig.cache
